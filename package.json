@@ -1,0 +1,17 @@
+{
+  "name": "angular-node-jwt",
+  "version": "0.0.0",
+  "description": "demo showing how to use token based authentication and api access with an angular front end and node js backend",
+  "main": "server-side.js",
+  "author": {
+    "name": "juan lamadrid",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*",
+    "jwt-simple": "~0.2.0",
+    "underscore": "~1.6.0"
+  }
+}
