@@ -1,6 +1,6 @@
 ## About
 
-Simple example to demonstrate token based unauthenticated and api access using angular on front end and node js on back end.
+Simple example to demonstrate token based authentication and api access using angular on front end and node js on back end.
 
 
 
